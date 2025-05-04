@@ -56,6 +56,9 @@ This command will open a new browser window displaying a QR code.
 
 -  Scan the QR code displayed in your browser or terminal.
 
+### 📱 Note
+- Make sure your mobile device is connected to the same network as your computer when running the app via Expo Go.
+
 ### 5. 💻 Launch on an Emulator/Simulator
 - If you have Android Studio set up with an emulator or Xcode with an iOS simulator, you can run the app directly from your development environment.
 
