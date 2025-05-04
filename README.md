@@ -24,7 +24,7 @@ Follow these steps to set up and run the app on your device using Expo Go or sim
 
 If you have received a ZIP file, extract it to your desired location. Otherwise, clone the repository:
 
-- git clone https://github.com/nandkishorshinde/weather-app.git
+- git clone https://github.com/nandkishorshinde55/weather-app.git
 
 2. **Navigate to the Project Directory**:
 
